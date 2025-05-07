@@ -1,2 +1,3 @@
-# CinePalta
-Una app Flutter para ver películas públicas desde enlaces externos.
+# Cinepalta
+
+Aplicación Flutter para ver películas.
