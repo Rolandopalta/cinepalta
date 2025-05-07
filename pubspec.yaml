@@ -1,5 +1,5 @@
-name: flutter_peliculas_app
-description: Una app básica para ver películas.
+name: cinepalta
+description: Una app Flutter para ver películas.
 version: 1.0.0+1
 
 environment:
